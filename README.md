@@ -7,6 +7,9 @@
 - https://www.linkedin.com/in/jameschip/ James Chiappetta
 - https://www.linkedin.com/in/carolgv/
 
+## Security checklists
+- https://github.com/krol3/container-security-checklist
+
 ## Better App Sec
 - https://betterappsec.com/cisos-guide-to-a-modern-appsec-program-a6021f52e62d
 - https://betterappsec.com/how-to-scale-appsec-with-security-champions-d92f4d09021c
@@ -16,5 +19,3 @@
 - https://attack.mitre.org/ Globally-accessible knowledge base of adversary tactics and techniques based on real-world observations.
 - https://techbeacon.com/security/7-must-dos-delivering-app-focused-security
 
-## Security checklists
-- https://github.com/krol3/container-security-checklist
