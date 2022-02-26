@@ -19,3 +19,7 @@
 - https://attack.mitre.org/ Globally-accessible knowledge base of adversary tactics and techniques based on real-world observations.
 - https://techbeacon.com/security/7-must-dos-delivering-app-focused-security
 
+# Microsegmentation
+- https://www.paloaltonetworks.com/cyberpedia/what-is-microsegmentation
+- https://www.gartner.com/smarterwithgartner/gartner-top-10-security-projects-for-2018
+- https://cdn2.hubspot.net/hubfs/407749/Downloads/Illumio_eBook_The_Definitive_Guide_to_Micro_Segmentation_2017_08.pdf
