@@ -5,6 +5,7 @@
 - https://www.linkedin.com/in/chris-h-97680442/ Chris Hughes
 - https://www.linkedin.com/in/clintgibler/ Clint Gibler
 - https://www.linkedin.com/in/jameschip/ James Chiappetta
+- https://www.linkedin.com/in/carolgv/
 
 ## Better App Sec
 - https://betterappsec.com/cisos-guide-to-a-modern-appsec-program-a6021f52e62d
