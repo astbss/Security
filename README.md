@@ -5,7 +5,7 @@
 - https://www.linkedin.com/in/chris-h-97680442/ Chris Hughes
 - https://www.linkedin.com/in/clintgibler/ Clint Gibler
 - https://www.linkedin.com/in/jameschip/ James Chiappetta
-- https://www.linkedin.com/in/carolgv/
+- https://www.linkedin.com/in/carolgv/  Carol Valencia 
 
 ## Security checklists
 - https://github.com/krol3/container-security-checklist
