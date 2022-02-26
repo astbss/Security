@@ -14,6 +14,7 @@
 - Inventory the apps into components where possible
 - https://betterappsec.com/how-to-prevent-security-breaches-with-appsec-pentesting-ba4100645994
 - https://attack.mitre.org/ Globally-accessible knowledge base of adversary tactics and techniques based on real-world observations.
+- https://techbeacon.com/security/7-must-dos-delivering-app-focused-security
 
 ## Security checklists
 - https://github.com/krol3/container-security-checklist
