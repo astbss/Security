@@ -1,7 +1,7 @@
 # Practical Application and Cloud Security
 
 ## Are's Basic Checklists
-- [Coding Rules and Guidelines](Coding_Rules_and_Guidelines)
+- [Coding Rules and Guidelines](Coding_Rules_and_Guidelines.md)
 
 ## Security Champions
 - This are some of my favorite Security Thought leaders
