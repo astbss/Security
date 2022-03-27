@@ -2,6 +2,7 @@
 
 ## Are's Basic Checklists
 - [Coding Rules and Guidelines](Coding_Rules_and_Guidelines.md)
+- [Simple Linux Security](Simple_Linux_Security.md)
 
 ## Security Champions
 - This are some of my favorite Security Thought leaders
