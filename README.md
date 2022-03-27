@@ -1,5 +1,8 @@
 # Practical Application and Cloud Security
 
+## Are's Basic Checklists
+- [Coding Rules and Guidelines](Coding_Rules_and_Guidelines)
+
 ## Security Champions
 - This are some of my favorite Security Thought leaders
 - https://www.linkedin.com/in/chris-h-97680442/ Chris Hughes
