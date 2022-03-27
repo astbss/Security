@@ -6,6 +6,7 @@
 
 ## Security Champions
 - This are some of my favorite Security Thought leaders
+- [Tanya Janca](https://twitter.com/shehackspurple)
 - https://www.linkedin.com/in/chris-h-97680442/ Chris Hughes
 - https://www.linkedin.com/in/clintgibler/ Clint Gibler
 - https://www.linkedin.com/in/jameschip/ James Chiappetta
@@ -15,6 +16,7 @@
 - https://github.com/krol3/container-security-checklist
 
 ## Better App Sec
+- https://wehackpurple.com/about/
 - https://betterappsec.com/cisos-guide-to-a-modern-appsec-program-a6021f52e62d
 - https://betterappsec.com/how-to-scale-appsec-with-security-champions-d92f4d09021c
 - Built a central application inventory
