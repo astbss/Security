@@ -1,6 +1,6 @@
 # Practical Application and Cloud Security
 
-## Are's Basic Checklists
+## Basic Checklists
 - [Coding Rules and Guidelines](Coding_Rules_and_Guidelines.md)
 - [Simple Linux Security](Simple_Linux_Security.md)
 
