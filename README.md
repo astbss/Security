@@ -5,7 +5,7 @@
 - [Simple Linux Security](Simple_Linux_Security.md)
 
 ## Security Champions
-- This are some of my favorite Security Thought leaders
+This are some of my favorite Security Thought leaders
 - [Tanya Janca](https://twitter.com/shehackspurple)
 - https://www.linkedin.com/in/chris-h-97680442/ Chris Hughes
 - https://www.linkedin.com/in/clintgibler/ Clint Gibler
