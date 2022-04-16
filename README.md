@@ -17,6 +17,14 @@ This are some of my favorite Security Thought leaders
 ## Security checklists
 - https://github.com/krol3/container-security-checklist
 
+## CIS Cybersecurity Benchmarks
+- https://www.cisecurity.org/benchmark
+- https://github.com/ansible-lockdown/UBUNTU20-CIS
+- https://github.com/ansible-lockdown/AZURE-CIS
+- https://github.com/ansible-lockdown/Windows-2019-CIS
+- https://github.com/alivx/CIS-Ubuntu-20.04-Ansible
+
+
 ## Better App Sec
 - https://wehackpurple.com/about/
 - https://betterappsec.com/cisos-guide-to-a-modern-appsec-program-a6021f52e62d
