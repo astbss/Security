@@ -17,6 +17,10 @@ This are some of my favorite Security Thought leaders
 ## Security checklists
 - https://github.com/krol3/container-security-checklist
 
+
+## Security Tools
+- [CloudKnox Permissions Management](https://www.microsoft.com/en-us/security/business/identity-access-management/permissions-management) 
+
 ## CIS Cybersecurity Benchmarks
 - https://www.cisecurity.org/benchmark
 - https://github.com/ansible-lockdown/UBUNTU20-CIS
