@@ -9,6 +9,7 @@ This are some of my favorite Security Thought leaders
 - [Tanya Janca](https://twitter.com/shehackspurple)
 - [Marius Sandbu](https://msandbu.org/about-me/)
     - https://trusselsky.no/
+    - https://github.com/msugn Microsoft Security User Group Norway
 - [Marius Solbakken](https://goodworkaround.com/aboutme/)
 - https://www.linkedin.com/in/chris-h-97680442/ Chris Hughes
 - https://www.linkedin.com/in/clintgibler/ Clint Gibler
