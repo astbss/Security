@@ -25,6 +25,7 @@ It is my firm opinion that only the session management features in your framewor
 - https://wehackpurple.com/pushing-left-like-a-boss-part-5-4-session-management/
 - https://cheatsheetseries.owasp.org/cheatsheets/Session_Management_Cheat_Sheet.html
 - https://cheatsheetseries.owasp.org/cheatsheets/Session_Management_Cheat_Sheet.html#built-in-session-management-implementations
+- https://stackoverflow.com/questions/20963273/spa-best-practices-for-authentication-and-session-management
 
 #### Example of Great Sessions Management
 - https://flask-login.readthedocs.io/en/latest/
