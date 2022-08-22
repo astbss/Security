@@ -26,6 +26,8 @@ It is my firm opinion that only the session management features in your framewor
 - https://cheatsheetseries.owasp.org/cheatsheets/Session_Management_Cheat_Sheet.html
 - https://cheatsheetseries.owasp.org/cheatsheets/Session_Management_Cheat_Sheet.html#built-in-session-management-implementations
 
+## Example of Great Sessions Management
+- https://flask-login.readthedocs.io/en/latest/
 
 ## Security Tools
 - [CloudKnox Permissions Management](https://www.microsoft.com/en-us/security/business/identity-access-management/permissions-management) 
