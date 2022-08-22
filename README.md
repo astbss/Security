@@ -29,6 +29,7 @@ It is my firm opinion that only the session management features in your framewor
 
 #### Example of Great Sessions Management
 - https://flask-login.readthedocs.io/en/latest/
+- https://auth0.com/blog/application-session-management-best-practices/
 
 ## Security Tools
 - [CloudKnox Permissions Management](https://www.microsoft.com/en-us/security/business/identity-access-management/permissions-management) 
