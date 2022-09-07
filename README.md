@@ -31,6 +31,11 @@ It is my firm opinion that only the session management features in your framewor
 - https://flask-login.readthedocs.io/en/latest/
 - https://auth0.com/blog/application-session-management-best-practices/
 
+#### The Problem: Security Tokens in the Browser
+- https://www.angulararchitects.io/aktuelles/part-1-the-problem-with-security-tokens-in-the-browser/
+- https://datatracker.ietf.org/doc/html/draft-ietf-oauth-browser-based-apps-08
+- https://www.angulararchitects.io/en/aktuelles/the-solution-easier-and-more-secure-with-authentication-gateways/
+
 ## Security Tools
 - [CloudKnox Permissions Management](https://www.microsoft.com/en-us/security/business/identity-access-management/permissions-management) 
 
