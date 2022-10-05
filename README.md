@@ -20,7 +20,7 @@ This are some of my favorite Security Thought leaders
 - https://github.com/krol3/container-security-checklist
 
 ## Session Management
-It is my firm opinion that only the session management features in your framework, or a third party tool/product used for this sole purpose, should be used to manage identity or a user session.
+It is my opinion as adviced from owasp.org and many others that only the session management features in your framework, or a third party tool/product used for this sole purpose, should be used to manage identity or a user session.
 
 - https://wehackpurple.com/pushing-left-like-a-boss-part-5-4-session-management/
 - https://cheatsheetseries.owasp.org/cheatsheets/Session_Management_Cheat_Sheet.html
