@@ -37,6 +37,7 @@ It is my opinion as adviced from owasp.org and many others that only the session
 - https://www.angulararchitects.io/aktuelles/part-1-the-problem-with-security-tokens-in-the-browser/
 - https://datatracker.ietf.org/doc/html/draft-ietf-oauth-browser-based-apps-08
 - https://www.angulararchitects.io/en/aktuelles/the-solution-easier-and-more-secure-with-authentication-gateways/
+- https://medium.com/manomano-tech/why-we-should-no-longer-use-bearer-tokens-to-protect-sensitive-single-page-applications-a7597c6c3097
 
 ## Security Tools
 - [CloudKnox Permissions Management](https://www.microsoft.com/en-us/security/business/identity-access-management/permissions-management) 
