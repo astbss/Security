@@ -15,6 +15,8 @@ This are some of my favorite Security Thought leaders
 - https://www.linkedin.com/in/clintgibler/ Clint Gibler
 - https://www.linkedin.com/in/jameschip/ James Chiappetta
 - https://www.linkedin.com/in/carolgv/  Carol Valencia 
+- https://pragmaticwebsecurity.com/about.html  Dr. Philippe De Ryck
+    - https://ndc-security.com/
 
 ## Security checklists
 - https://github.com/krol3/container-security-checklist
