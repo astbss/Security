@@ -29,6 +29,7 @@ It is my opinion as adviced from owasp.org and many others that only the session
 - https://cheatsheetseries.owasp.org/cheatsheets/Session_Management_Cheat_Sheet.html#built-in-session-management-implementations
 - https://stackoverflow.com/questions/20963273/spa-best-practices-for-authentication-and-session-management
 - https://owasp.org/www-community/HttpOnly
+- https://stackoverflow.com/questions/46356415/session-management-in-angularweb-api-application
 
 #### Example of Great Sessions Management
 - https://flask-login.readthedocs.io/en/latest/
