@@ -30,6 +30,9 @@ It is my opinion as adviced from owasp.org and many others that only the session
 - https://stackoverflow.com/questions/20963273/spa-best-practices-for-authentication-and-session-management
 - https://owasp.org/www-community/HttpOnly
 - https://stackoverflow.com/questions/46356415/session-management-in-angularweb-api-application
+- https://developer.okta.com/blog/2021/06/07/session-mgmt-node
+- https://developer.okta.com/blog/2017/08/17/why-jwts-suck-as-session-tokens
+
 
 #### Example of Great Sessions Management
 - https://flask-login.readthedocs.io/en/latest/
