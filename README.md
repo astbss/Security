@@ -32,6 +32,7 @@ It is my opinion as adviced from owasp.org and many others that only the session
 - https://stackoverflow.com/questions/46356415/session-management-in-angularweb-api-application
 - https://developer.okta.com/blog/2021/06/07/session-mgmt-node
 - https://developer.okta.com/blog/2017/08/17/why-jwts-suck-as-session-tokens
+- https://www.youtube.com/watch?v=zHBpJA5XfDk  Web App Pentesting - HTTP Cookies & Sessions
 
 
 #### Example of Great Sessions Management
@@ -46,6 +47,7 @@ It is my opinion as adviced from owasp.org and many others that only the session
 
 ## Security Tools
 - [CloudKnox Permissions Management](https://www.microsoft.com/en-us/security/business/identity-access-management/permissions-management) 
+- https://www.youtube.com/playlist?list=PLBf0hzazHTGO3EpGAs718LvLsiMIv9dSC
 
 ## CIS Cybersecurity Benchmarks
 - https://www.cisecurity.org/benchmark
