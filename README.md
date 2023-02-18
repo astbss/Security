@@ -38,6 +38,7 @@ It is my opinion as adviced from owasp.org and many others that only the session
 #### Example of Great Sessions Management
 - https://flask-login.readthedocs.io/en/latest/
 - https://auth0.com/blog/application-session-management-best-practices/
+- https://www.youtube.com/playlist?list=PLBf0hzazHTGO3EpGAs718LvLsiMIv9dSC   Web App Penetration Testing
 
 #### The Problem: Security Tokens in the Browser
 - https://www.angulararchitects.io/aktuelles/part-1-the-problem-with-security-tokens-in-the-browser/
