@@ -50,6 +50,7 @@ bgmysql.sql_exec(cur, sql, uuid)
 - https://blog.chromium.org/2020/08/protecting-google-chrome-users-from.html
 
 # Good Interaction Design
+- https://www.intercom.com/blog/fundamentals-good-interaction-design/
 - https://www.interaction-design.org/literature/article/what-is-interaction-design
 
 # Never trust data from the browser
