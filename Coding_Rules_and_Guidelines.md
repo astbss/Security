@@ -53,6 +53,7 @@ bgmysql.sql_exec(cur, sql, uuid)
 - https://www.intercom.com/blog/fundamentals-good-interaction-design/
 - https://www.interaction-design.org/literature/article/what-is-interaction-design
 - https://intercom.design/
+- https://www.youtube.com/watch?v=_Mya5c5qnIc 10 Great SaaS Interaction Design
 
 # Never trust data from the browser
 > Important: The single most important lesson you can learn about website security is to never trust data from the browser. This includes, but is not limited to data in URL parameters of GET requests, POST requests, HTTP headers and cookies, and user-uploaded files. Always check and sanitize all incoming data. Always assume the worst.
