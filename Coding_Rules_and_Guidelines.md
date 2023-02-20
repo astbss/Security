@@ -49,6 +49,8 @@ bgmysql.sql_exec(cur, sql, uuid)
 - This applies to production as we do not have HTTPS during development. The developer still need to code this
 - https://blog.chromium.org/2020/08/protecting-google-chrome-users-from.html
 
+# Good Interaction Design
+- https://www.interaction-design.org/literature/article/what-is-interaction-design
 
 # Never trust data from the browser
 > Important: The single most important lesson you can learn about website security is to never trust data from the browser. This includes, but is not limited to data in URL parameters of GET requests, POST requests, HTTP headers and cookies, and user-uploaded files. Always check and sanitize all incoming data. Always assume the worst.
