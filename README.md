@@ -47,6 +47,10 @@ It is my opinion as adviced from owasp.org and many others that only the session
 - https://medium.com/manomano-tech/why-we-should-no-longer-use-bearer-tokens-to-protect-sensitive-single-page-applications-a7597c6c3097
 - https://www.youtube.com/watch?v=4V3GXPViXxQ  Hacking JWTs for Beginners with Farah Hawa
 
+#### Microsoft Graph
+- https://learn.microsoft.com/en-us/azure/active-directory/develop/v2-oauth2-on-behalf-of-flow
+    - In the case of Single-page apps (SPAs), they should pass an access token to a middle-tier confidential client to perform OBO flows instead.
+
 ## Security Tools
 - [CloudKnox Permissions Management](https://www.microsoft.com/en-us/security/business/identity-access-management/permissions-management) 
 - https://www.youtube.com/playlist?list=PLBf0hzazHTGO3EpGAs718LvLsiMIv9dSC
