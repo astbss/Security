@@ -58,6 +58,7 @@ It is my opinion as adviced from owasp.org and many others that only the session
 
 ## More APP security Articles
 - https://security.googleblog.com/2011/05/website-security-for-webmasters.html
+- https://www.securecoding.com/blog/flask-security-best-practices/
 - https://angular.io/guide/security
 
 ## CIS Cybersecurity Benchmarks
