@@ -54,6 +54,11 @@ It is my opinion as adviced from owasp.org and many others that only the session
 ## Security Tools
 - [CloudKnox Permissions Management](https://www.microsoft.com/en-us/security/business/identity-access-management/permissions-management) 
 - https://www.youtube.com/playlist?list=PLBf0hzazHTGO3EpGAs718LvLsiMIv9dSC
+- https://code.google.com/archive/p/skipfish/wikis/SkipfishDoc.wiki
+
+## More APP security Articles
+- https://security.googleblog.com/2011/05/website-security-for-webmasters.html
+- https://angular.io/guide/security
 
 ## CIS Cybersecurity Benchmarks
 - https://www.cisecurity.org/benchmark
