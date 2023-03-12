@@ -62,6 +62,8 @@ It is my opinion as adviced from owasp.org and many others that only the session
 - https://www.securecoding.com/blog/flask-security-best-practices/
 - https://angular.io/guide/security
 - https://www.youtube.com/watch?v=FAopBbQukvI  Single Page Applications: Is your design secure? OWASP / Microsoft
+- https://auth0.com/docs/secure/tokens/token-best-practices
+- https://auth0.com/docs/secure/security-guidance/data-security/token-storage
 
 ## CIS Cybersecurity Benchmarks
 - https://www.cisecurity.org/benchmark
