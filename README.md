@@ -56,6 +56,8 @@ It is my opinion as adviced from owasp.org and many others that only the session
 - [CloudKnox Permissions Management](https://www.microsoft.com/en-us/security/business/identity-access-management/permissions-management) 
 - https://www.youtube.com/playlist?list=PLBf0hzazHTGO3EpGAs718LvLsiMIv9dSC
 - https://code.google.com/archive/p/skipfish/wikis/SkipfishDoc.wiki
+- https://owasp.org/www-project-nettacker/
+    - https://www.youtube.com/watch?v=quZ-RWcIyr0
 
 ## More APP security Articles
 - https://security.googleblog.com/2011/05/website-security-for-webmasters.html
