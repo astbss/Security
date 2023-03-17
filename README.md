@@ -56,6 +56,7 @@ It is my opinion as adviced from owasp.org and many others that only the session
 - [CloudKnox Permissions Management](https://www.microsoft.com/en-us/security/business/identity-access-management/permissions-management) 
 - https://www.youtube.com/playlist?list=PLBf0hzazHTGO3EpGAs718LvLsiMIv9dSC
 - https://code.google.com/archive/p/skipfish/wikis/SkipfishDoc.wiki
+- [OWASP Zed Attack Proxy (ZAP) is a free security tool. It automatically identifies web application security vulnerabilities during development and testing](https://www.zaproxy.org/) 
 - https://owasp.org/www-project-nettacker/
     - https://www.youtube.com/watch?v=quZ-RWcIyr0
 
