@@ -60,6 +60,7 @@ It is my opinion as adviced from owasp.org and many others that only the session
 - https://owasp.org/www-project-nettacker/
     - https://www.youtube.com/watch?v=quZ-RWcIyr0
 - [Burp Suite - Security tool perfect for learning more about AppSec](https://portswigger.net/burp/communitydownload ) 
+- https://www.kali.org/  Penetration Testing and  Security Research focused Linux Distribution
 
 ## More APP security Articles
 - https://security.googleblog.com/2011/05/website-security-for-webmasters.html
