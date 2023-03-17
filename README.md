@@ -59,8 +59,7 @@ It is my opinion as adviced from owasp.org and many others that only the session
 - [OWASP Zed Attack Proxy (ZAP) is a free security tool. It automatically identifies web application security vulnerabilities during development and testing](https://www.zaproxy.org/) 
 - https://owasp.org/www-project-nettacker/
     - https://www.youtube.com/watch?v=quZ-RWcIyr0
-- [Burp Suite ](https://portswigger.net/burp/communitydownload ) 
-- 
+- [Burp Suite - Security tool perfect for learning more about AppSec](https://portswigger.net/burp/communitydownload ) 
 
 ## More APP security Articles
 - https://security.googleblog.com/2011/05/website-security-for-webmasters.html
