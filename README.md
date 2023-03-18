@@ -70,7 +70,7 @@ It is my opinion as adviced from owasp.org and many others that only the session
 - https://auth0.com/docs/secure/tokens/token-best-practices
 - https://auth0.com/docs/secure/security-guidance/data-security/token-storage
 - [OAuth 2.0 is the industry-standard protocol for authorization](https://oauth.net/2/) 
-- [How to Hack OAuth](https://www.youtube.com/watch?v=aU9RsE4fcRM) 
+    - [How to Hack OAuth](https://www.youtube.com/watch?v=aU9RsE4fcRM) 
 
 ## CIS Cybersecurity Benchmarks
 - https://www.cisecurity.org/benchmark
