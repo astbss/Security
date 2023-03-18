@@ -86,6 +86,10 @@ as such.
 multi-factor authentication, cryptographic devices with intent (such
 as connected keys with a push to authenticate), or at higher AAL
 levels, client-side certificates.
+- The most common web application security weakness is the failure to properly validate input coming from the
+client or the environment before directly using it without any output encoding. This weakness leads to almost all of
+the significant vulnerabilities in web applications, such as Cross-Site Scripting (XSS), SQL injection, interpreter
+injection, locale/Unicode attacks, file system attacks, and buffer overflows
 
 ## CIS Cybersecurity Benchmarks
 - https://www.cisecurity.org/benchmark
