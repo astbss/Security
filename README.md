@@ -72,6 +72,9 @@ It is my opinion as adviced from owasp.org and many others that only the session
 - [OAuth 2.0 is the industry-standard protocol for authorization](https://oauth.net/2/) 
     - [How to Hack OAuth](https://www.youtube.com/watch?v=aU9RsE4fcRM) 
 
+## The OWASP Application Security Verification Standard (ASVS) 
+- [The official ASVS 4.0 is split into 14 chapters and covers everything you can potentially encounter regarding software development](https://owasp.org/www-pdf-archive/OWASP_Application_Security_Verification_Standard_4.0-en.pdf) 
+
 ## CIS Cybersecurity Benchmarks
 - https://www.cisecurity.org/benchmark
 - https://github.com/ansible-lockdown/UBUNTU20-CIS
