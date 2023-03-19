@@ -71,6 +71,7 @@ It is my opinion as adviced from owasp.org and many others that only the session
 - https://auth0.com/docs/secure/security-guidance/data-security/token-storage
 - [OAuth 2.0 is the industry-standard protocol for authorization](https://oauth.net/2/) 
     - [How to Hack OAuth](https://www.youtube.com/watch?v=aU9RsE4fcRM) 
+- https://owasp.org/Top10/A01_2021-Broken_Access_Control/    
 
 ## The OWASP Application Security Verification Standard (ASVS) 
 - [The official ASVS 4.0 is split into 14 chapters and covers everything you can potentially encounter regarding software development](https://owasp.org/www-pdf-archive/OWASP_Application_Security_Verification_Standard_4.0-en.pdf) 
