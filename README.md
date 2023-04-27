@@ -51,6 +51,7 @@ It is my opinion as adviced from owasp.org and many others that only the session
 - https://medium.com/@benjamin.botto/secure-access-token-storage-with-single-page-applications-part-1-9536b0021321
 - https://medium.com/@benjamin.botto/secure-access-token-storage-with-single-page-applications-part-2-921fce24e1b5
 - https://www.youtube.com/watch?v=UZQ_ke8BuRU  OktaDev How Authentication and Authorization Work for SPAs
+- https://www.youtube.com/watch?v=FAopBbQukvI  Single Page Applications (SPAs): Is your design secure? OWASP / Microsoft
 
 #### Microsoft Graph
 - https://learn.microsoft.com/en-us/azure/active-directory/develop/v2-oauth2-on-behalf-of-flow
@@ -72,7 +73,6 @@ It is my opinion as adviced from owasp.org and many others that only the session
 - https://security.googleblog.com/2011/05/website-security-for-webmasters.html
 - https://www.securecoding.com/blog/flask-security-best-practices/
 - https://angular.io/guide/security
-- https://www.youtube.com/watch?v=FAopBbQukvI  Single Page Applications: Is your design secure? OWASP / Microsoft
 - https://auth0.com/docs/secure/tokens/token-best-practices
 - https://auth0.com/docs/secure/security-guidance/data-security/token-storage
 - [OAuth 2.0 is the industry-standard protocol for authorization](https://oauth.net/2/) 
