@@ -10,7 +10,7 @@ This are some of my favorite Security Thought leaders
 - [Marius Sandbu](https://msandbu.org/about-me/)
     - https://trusselsky.no/
     - https://github.com/msugn Microsoft Security User Group Norway
-- [Truls Dahlsveen](https://www.linkedin.com/in/truls-dahlsveen/)      
+- [Truls Dahlsveen](https://www.linkedin.com/in/truls-dahlsveen/)  Principal Security Engineer - Microsoft MVP
 - [Marius Solbakken](https://goodworkaround.com/aboutme/)
 - https://www.linkedin.com/in/chris-h-97680442/ Chris Hughes
 - https://www.linkedin.com/in/clintgibler/ Clint Gibler
