@@ -61,6 +61,7 @@ It is my opinion as adviced from owasp.org and many others that only the session
 - https://learn.microsoft.com/en-us/azure/architecture/guide/resilience/azure-ad-secure-single-page-application
 - https://learn.microsoft.com/en-us/azure/active-directory/develop/tutorial-v2-angular-auth-code
     - @azure/msal-angular
+- https://learn.microsoft.com/en-us/azure/active-directory-b2c/tokens-overview B2C
 
 ## Security Tools
 - [CloudKnox Permissions Management](https://www.microsoft.com/en-us/security/business/identity-access-management/permissions-management) 
