@@ -58,7 +58,9 @@ It is my opinion as adviced from owasp.org and many others that only the session
 #### Microsoft Graph
 - https://learn.microsoft.com/en-us/azure/active-directory/develop/v2-oauth2-on-behalf-of-flow
     - In the case of Single-page apps (SPAs), they should pass an access token to a middle-tier confidential client to perform OBO flows instead.
-- https://learn.microsoft.com/en-us/azure/architecture/guide/resilience/azure-ad-secure-single-page-application    
+- https://learn.microsoft.com/en-us/azure/architecture/guide/resilience/azure-ad-secure-single-page-application
+- https://learn.microsoft.com/en-us/azure/active-directory/develop/tutorial-v2-angular-auth-code
+    - @azure/msal-angular
 
 ## Security Tools
 - [CloudKnox Permissions Management](https://www.microsoft.com/en-us/security/business/identity-access-management/permissions-management) 
