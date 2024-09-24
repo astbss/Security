@@ -24,6 +24,7 @@ Coding rules and guidelines ensure that software is:
 - _We use a Dockstring in every function to explain the purpose of the function_
 
 # Prevent SQL Injection Attach (SQLi)
+- https://bandit.readthedocs.io/en/latest/
 - SQL injection is a code injection technique that might destroy your database.
 - SQL injection is one of the most common web hacking techniques.
 - SQL injection is the placement of malicious code in SQL statements, via web page input.
@@ -95,6 +96,7 @@ Small functions that do one thing are easier to understand, follow, and debug. T
 > Complexity is the enemy. Complexity usually means there are many unknowns and that the team has too many variables to work on. A complex problem requires a complex plan which is not easily understood and not easily executed.”
 
 # Security Requirements
+- https://bandit.readthedocs.io/en/latest/
 - https://wehackpurple.com/pushing-left-like-a-boss-part-2-security-requirements/
 
 **Trust no one:** validate and sanitize all data, even from your own database
