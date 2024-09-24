@@ -42,6 +42,7 @@ bgmysql.sql_exec(cur, sql, uuid)
 - Normally all our html tables are using Datatables.
 - We normally have DataTables pagination and search enabled, exept if there is a good reason not to
 - https://datatables.net/  DataTables advanced interaction controls for HTML tables
+- https://gridjs.io/ Alternative Table Grid
 
 # Always enable CSRF Protection
 - https://flask-wtf.readthedocs.io/en/stable/csrf.html
