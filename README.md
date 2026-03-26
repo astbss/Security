@@ -21,6 +21,7 @@ This are some of my favorite Security Thought leaders
     - https://ndc-security.com/
 
 ## Security checklists
+- https://github.com/cosai-oasis/project-codeguard
 - https://github.com/krol3/container-security-checklist
 
 ## Session Management
