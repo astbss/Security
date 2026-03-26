@@ -1,6 +1,7 @@
 # Coding Rules and Guidelines
 
 Coding rules and guidelines ensure that software is:
+- https://github.com/cosai-oasis/project-codeguard
 
 - **Safe:** It can be used without causing harm.
 - **Secure:** It can’t be hacked.
